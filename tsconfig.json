@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "experimentalDecorators": true, // 必须开启
+    "emitDecoratorMetadata": true,  // 必须开启
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  }
+}
